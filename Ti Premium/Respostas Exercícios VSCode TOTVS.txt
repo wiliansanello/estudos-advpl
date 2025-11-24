@@ -1,0 +1,38 @@
+Exercícios - VSCode com extensão totvs
+
+1. O VSCode pode ser instalado em quais sistemas operacionais?
+
+a. Windows, Mac e Linux
+b. Windows e Mac
+c. Windows e Linux
+d. Somente Windows
+Resposta: a
+
+2. Qual é o atalho para abrir "Ir para o arquivo" e "Paleta de comando", respectivamente?:
+a. Ctrl+A e Ctrl+Shift+A
+b. Ctrl+P e Ctrl+Shift+P
+c. Ctrl+R e Ctrl+Shift+R
+d. Ctrl+S e Ctrl+Shift+S
+Resposta: b
+
+3. Quais são as opções de pulo ao debugar um código?
+
+a. Pular sobre e pular dentro
+b. Pular dentro e pular fora
+c. Pular sobre, pular dentro e pular fora
+d. Pular sobre e pular fora
+Resposta: c
+
+4. Quais são as visões auxiliares para navegação do código fonte?
+a. Trilhas e Monitor
+b. Trilhas e debugar
+c. Trilhas e mapa
+d. Trilhas e minimapa
+Resposta: d
+
+5. Quais extensões são ideais para instalarmos no VSCode para programarmos em AdvPL?
+a. TOTVS Monitor e TOTVS Environment
+b. TOTVS Developer Studio e TOTVS Monitor
+c. TOTVS Environment e TOTVS Developer Studio
+d. TOTVS Developer Studio e TOTVS Inspector
+Resposta: b
